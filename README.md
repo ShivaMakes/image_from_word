@@ -34,7 +34,7 @@ No extra installations needed! 🎉
 ---
 
 ## 🖥 Screenshot
-*(optional but looks cool if you add a pic later)*
+
 
 ---
 
